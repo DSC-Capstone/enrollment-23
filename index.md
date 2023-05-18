@@ -1,11 +1,14 @@
 ---
 layout: minimal
-title: 2023-24 DSC Capstone Domain Descriptions
+title: Domain Descriptions
 nav_exclude: true
 nav_order: 1
 ---
 
 # {{ page.title }}
+{: .mb-2 }
+{{ site.description }}
+{: .fs-6 .fw-300 }
 
 ## Overview
 
@@ -29,7 +32,7 @@ You should aim to choose a domain that suits your interests and preparation. By 
 
 ✅ <span style="color:#00bb00"><b>Good</b></span> reasons to choose a domain:
 - You are sufficiently prepared.
-- You are likely to be motivated.
+- You find the topic interesting and would be motivated to study it.
 - You are likely to work well with the mentor given their mentoring style and research background.
 
 ❌ <span style="color:#ff0000"><b>Bad</b></span> reasons to choose a domain:

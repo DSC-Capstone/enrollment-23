@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 2023-24 DSC Capstone Descriptions
-description: 2023-24 DSC Capstone Descriptions
-tagline: 
+title: DSC Capstone
+description: DSC Capstone, 2023-24 @ UC San Diego
+tagline: Course website for the 2023-24 offering of the data science capstone sequence at UC San Diego.
 baseurl: '/enrollment' # the subpath of your site, e.g. /blog
 url: 'https://dsc-capstone.org' # the base hostname & protocol for your site, e.g. http://example.com
 author: Suraj Rampure
