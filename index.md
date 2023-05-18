@@ -53,7 +53,7 @@ All prerequisites for DSC 180A will be strictly enforced. The prerequisites for 
 Note that since DSC 180A and DSC 180B are both 4-unit courses, you should expect to spend 12 hours a week on capstone-related work each quarter. Plan your class schedule accordingly – try not to take several time-consuming classes alongside the capstone.
 
 {: .note }
-**If you have questions about the content covered in a particular domain, you should email the mentor directly. With any questions about enrollment or the capstone program overall, you should email Suraj Rampure (rampure@ucsd.edu).**
+**With any questions about the capstone sequence itself, feel free to email Suraj Rampure (rampure@ucsd.edu). With any questions about enrollment, please contact Student Affairs in the VAC.**
 
 ---
 
