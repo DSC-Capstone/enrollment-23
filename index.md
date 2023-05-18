@@ -24,7 +24,9 @@ You can see the syllabus for last year's capstone offering [**here**](https://ds
 
 The Schedule of Classes for Fall 2023 will be released on May 23rd, and first pass will begin on May 26th. The available domains are **not** listed on the Schedule of Classes; instead, they are detailed [**below**](#toc). Most domains are run by UCSD faculty, but some are run by industry partners (denoted with an <span class="badge-industry">Industry Partner</span> badge).
 
-Use the information here to choose the domain you'd like to enroll in. Once you've chosen a domain, all you need to do is enroll in the corresponding discussion section for DSC 180A once first pass comes, space permitting. (Nothing is stopping you from waiting until second pass, but it's less likely you'll get a domain of your choice.) All of the information here – domain offerings, section times, descriptions, summer tasks, etc. – is subject to change as mentors provide us with more information.
+Use the information here to choose the domain you'd like to enroll in. Once you've chosen a domain, all you need to do is enroll in the corresponding discussion section for DSC 180A once first pass comes, space permitting. (Nothing is stopping you from waiting until second pass, but it's less likely you'll get a domain of your choice.) Note that you cannot change domains between DSC 180A and DSC 180B.
+
+All of the information here – domain offerings, section times, descriptions, summer tasks, etc. – is subject to change as mentors provide us with more information.
 
 ### How should I choose a domain?
 
@@ -47,6 +49,8 @@ Everything you produce for the capstone will have to be public on the internet f
 In addition to meeting with your mentor each week, there will also be methodology instruction delivered by Suraj and the methodology course staff. However, the majority of this instruction will occur asynchronously, in the form of readings (like [this one](https://dsc-capstone.github.io/lessons/q1/04/)). **This means that you can ignore the lecture and lab times that appear for DSC 180A on the Schedule of Classes.** The Monday lecture slots (2-2:50PM and 3-3:50PM) will be used for Suraj's office hours, but we don't plan to use the rest of the times.
 
 All prerequisites for DSC 180A will be strictly enforced. The prerequisites for DSC 180A can be found [**here**](https://datascience.ucsd.edu/current-students/course-descriptions-and-prerequisites/#dsc-180a-data-science-project-1).
+
+Note that since DSC 180A and DSC 180B are both 4-unit courses, you should expect to spend 12 hours a week on capstone-related work each quarter. Plan your class schedule accordingly – try not to take several time-consuming classes alongside the capstone.
 
 {: .note }
 **If you have questions about the content covered in a particular domain, you should email the mentor directly. With any questions about enrollment or the capstone program overall, you should email Suraj Rampure (rampure@ucsd.edu).**
