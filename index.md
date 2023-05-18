@@ -12,7 +12,7 @@ nav_order: 1
 
 ## Overview
 
-Welcome to the capstone program! The capstone program is a two-quarter sequence (Fall 2023 and Winter 2024) in which you will be mentored by a faculty or industry expert in their domain of expertise. By the end of Quarter 2, you will design and execute a project from that domain in teams of 2-4. You can see the projects from last year at [**hdsishowcase.com**](https://hdsishowcase.com).
+Welcome to the capstone program! The capstone program is a two-quarter sequence (Fall 2023 and Winter 2024) in which you will be mentored by a faculty or industry expert in their domain of expertise. By the end of Quarter 2, you will design and execute a project from that domain in teams of 2-4. You can see the projects from last year at [**dsc-capstone.org/showcase-23**](https://dsc-capstone.org/showcase-23).
 
 At a high level, here’s how the capstone program is organized:
 - In Quarter 1 (DSC 180A), you gain background information in your mentor’s domain, by means of replicating a known result. By the end of Quarter 1, you will have completed a replication project (known as the “Quarter 1 Project”) and will have a proposal for a more independent project (known as the “Quarter 2 Project”, or the capstone project).
@@ -46,7 +46,7 @@ Everything you produce for the capstone will have to be public on the internet f
 
 ### What happens in DSC 180A?
 
-In addition to meeting with your mentor each week, there will also be methodology instruction delivered by Suraj and the methodology course staff. However, the majority of this instruction will occur asynchronously, in the form of readings (like [this one](https://dsc-capstone.github.io/lessons/q1/04/)). **This means that you can ignore the lecture and lab times that appear for DSC 180A on the Schedule of Classes.** The Monday lecture slots (2-2:50PM and 3-3:50PM) will be used for Suraj's office hours, but we don't plan to use the rest of the times.
+In addition to meeting with your mentor each week, there will also be methodology instruction delivered by Suraj and the methodology course staff. However, the majority of this instruction will occur asynchronously, in the form of readings (like [this one](https://dsc-capstone.github.io/2022-23/lessons/q1/04/)). **This means that you can ignore the lecture and lab times that appear for DSC 180A on the Schedule of Classes.** The Monday lecture slots (2-2:50PM and 3-3:50PM) will be used for Suraj's office hours, but we don't plan to use the rest of the times.
 
 All prerequisites for DSC 180A will be strictly enforced. The prerequisites for DSC 180A can be found [**here**](https://datascience.ucsd.edu/current-students/course-descriptions-and-prerequisites/#dsc-180a-data-science-project-1).
 
