@@ -1,6 +1,6 @@
 ---
 name: Arya Mazumdar
-email: amazumdar@gmail.com
+email: arya@ucsd.edu
 photo: https://datascience.ucsd.edu/wp-content/uploads/2022/09/Arya-Mazumdar-1.jpg
 website: https://mazumdar.ucsd.edu/
 domain: B05
