@@ -17,7 +17,7 @@ summer: "check out pytorch geometric (<a href='https://pytorch-geometric.readthe
 oldstudent: https://brliu.com/dsc180b-project
 prerequisites: Students should be familiar with neural network architectures and have done projects on deep learning. Knowledge of graph neural networks will be a plus but not required. 
 time: Wednesday 9-10AM, In-Person
-style: We expect some degree of independence of students in the capstone projects. At the beginning, we will give some lectures on the basics of graph neural networks to guide the students.
+style: We expect students to be self motivated to do the reading and coding tasks, and to have some degree of independence in their capstone projects. Students are expected to treat the project seriously and devote time to making weekly progress toward their goals. We are always happy to discuss and help problem-solve.
 seats: 12
 tag: Graphs and Deep Learning
 ---
