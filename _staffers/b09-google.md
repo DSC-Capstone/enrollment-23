@@ -16,7 +16,7 @@ Generative AI can also play a crucial role in reducing socio-political polarizat
 
 However, it is important to note that generative AI techniques are not without challenges. Ensuring the accuracy and fairness of these models, avoiding biases, and balancing freedom of expression with the need to combat misinformation are critical considerations. Ethical guidelines and rigorous validation processes should be put in place to address these concerns and ensure the responsible and effective deployment of generative AI for good in the context of misinformation and disinformation detection and mitigation.
 
-<a href='alternusvera.com'>alternusvera.com</a>"
+<a href='https://alternusvera.com'>alternusvera.com</a>"
 summer: Papers on Transformers, hands-on small bite-size projects that can help pave the way for the generative AI project domain
 oldstudent: nan
 prerequisites: Experience with deep learning frameworks
