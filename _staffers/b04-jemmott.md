@@ -12,6 +12,6 @@ oldstudent: https://dsc-capstone.github.io/projects-2020-2021/#domain_04
 prerequisites: None
 time: Wednesday 9-10AM, In-Person
 style: This section will be open-ended and ill-posed, meaning that you will need to first define and then solve the problems.  I will do everything I can to help you, but you will play a leading role in our collaboration.
-seats: 12
+seats: 8 
 tag: Graphs and Deep Learning
 ---

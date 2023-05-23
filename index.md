@@ -5,6 +5,14 @@ nav_exclude: true
 nav_order: 1
 ---
 
+{: .important }
+> **Announcements (5/23, 3:30PM):**
+> - The [Schedule of Classes](https://act.ucsd.edu/scheduleOfClasses/scheduleOfClassesStudent.htm) is now live. To match a domain on this page to a domain on WebReg, use the domain's discussion section number (e.g. <span class="badge-domain">A05</span>) listed next to the number of seats.
+>
+> - A new section, B18: _NLP Credit Score Development_ with Brian Duke (industry mentor, Prism Data), was just added.
+>
+> - If you took either DSC 140A, DSC 140B, or DSC 148 to satisfy the machine learning prerequisite, you will need to submit an [Enrollment Authorization System](https://academicaffairs.ucsd.edu/Modules/Students/PreAuth/) request in order to enroll in DSC 180A in fall quarter.
+
 # {{ page.title }}
 {: .mb-2 }
 {{ site.description }}
@@ -48,7 +56,7 @@ Everything you produce for the capstone will have to be public on the internet f
 
 In addition to meeting with your mentor each week, there will also be methodology instruction delivered by Suraj and the methodology course staff. However, the majority of this instruction will occur asynchronously, in the form of readings (like [this one](https://dsc-capstone.github.io/2022-23/lessons/q1/04/)). **This means that you can ignore the lecture and lab times that appear for DSC 180A on the Schedule of Classes.** The Monday lecture slots (3-3:50PM and 4-4:50PM) will be used for Suraj's office hours, but we don't plan to use the rest of the times.
 
-All prerequisites for DSC 180A will be strictly enforced. The prerequisites for DSC 180A can be found [**here**](https://datascience.ucsd.edu/current-students/course-descriptions-and-prerequisites/#dsc-180a-data-science-project-1).
+All prerequisites for DSC 180A will be strictly enforced. The prerequisites for DSC 180A can be found [**here**](https://datascience.ucsd.edu/current-students/course-descriptions-and-prerequisites/#dsc-180a-data-science-project-1). If you took either DSC 140A, DSC 140B, or DSC 148 to satisfy the machine learning prerequisite, you will need to submit an [Enrollment Authorization System](https://academicaffairs.ucsd.edu/Modules/Students/PreAuth/) request in order to enroll in DSC 180A in fall quarter.
 
 Note that since DSC 180A and DSC 180B are both 4-unit courses, you should expect to spend 12 hours a week on capstone-related work each quarter. Plan your class schedule accordingly – try not to take several time-consuming classes alongside the capstone.
 
