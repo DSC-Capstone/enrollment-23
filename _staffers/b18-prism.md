@@ -15,7 +15,7 @@ description: "One of the most widely used and little understood parts of the Fin
 summer: "The course will focus on translating data in your bank account eventually in a credit score.  In preparation for the course, it is recommended students familiarize themselves with NLP techniques for text classification.  We will be first building a model to categorize banking transactions, then using the categorized transactions to eventually build a credit score."
 oldstudent: https://dsc180a.github.io/rethink_creditscore.github.io/
 prerequisites:
-time: Friday 11AM-12PM, TBD
+time: Friday 11AM-12PM, Zoom
 style: We'll meet every week and use the time to check in on your projects. We will work with you directly, rather than involving students and postdocs.
 seats: 12
 tag: Language Models
