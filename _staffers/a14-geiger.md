@@ -21,7 +21,7 @@ Our main textbooks that give overviews of this work, with examples of audits and
 Other readings and examples: https://auditlab.stuartgeiger.com"
 oldstudent: https://brianjhuang.github.io/CryptoWho/
 prerequisites: None
-time: Wednesday 11AM-12PM, In-Person
+time: Monday 12-1PM, In-Person
 style: I will be the only point of contact. Students will be expected to propose their own project auditing an existing algorithmic system of their own choosing, collect data through methods like headless browsers, and analyze data. I will help with ideas and details. 
 seats: 4
 tag: Causal Inference and Fairness
