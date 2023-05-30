@@ -24,7 +24,7 @@ Required experience in python and pytorch
 Excellent materials for deep learning: <a href='https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/'>https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/</a>"
 oldstudent: https://gordonhu608.github.io/Revisit_CLIP/
 prerequisites: Some of DSC 140A, DSC 140B, DSC 190 Trustworthy Machine Learning, CSE 151A, CSE 151B, CSE 150A, CSE 150B, CSE 152A, CSE 152B, CSE 156
-time: Tuesday Morning, Zoom
+time: Monday 4-5PM, Zoom
 style: This project will be purely research-oriented and heavier than the usual course project. Students are expected to lead their capstone project under Prof. Weng's guidance. Students familiar with deep learning algorithms in computer vision or natural language processing, and deep learning libraries (e.g. pytorch) and neural networks are more likely to succeed in this project.
 seats: 6
 tag: Graphs and Deep Learning
