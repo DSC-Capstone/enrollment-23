@@ -14,7 +14,7 @@ description: "We are interested in developing models to predict the efficiency a
 summer: None
 oldstudent: https://lsidarto.github.io/perovskite-graph-database/
 prerequisites: Prior experience or willingness to learn setting up NoSQL databases a plus. Visualizations will be done in Python and Javascript.
-time: TBD
+time: Friday 1-2PM, Zoom
 style: 
 seats: 4
 tag: Distributed Systems and Other Applications
