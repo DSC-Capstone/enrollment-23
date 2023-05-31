@@ -22,7 +22,7 @@ summer: "Here are some relevant readings. The students needs not go into all the
 One objective of the replication project could be to recreate the numerics in the third paper (Sohl-Dickstein et al.)"
 oldstudent: https://guanlin-99.github.io/
 prerequisites: Having a course or two on probability and/or machine learning would be very helpful -- in particular, being familiar with Bayes' rule and conditional probabilities (or being willing to learn very quickly). Familiarity with the basics of neural networks would also be very helpful. 
-time: TBD, In-Person
+time: Thursday 12:30-1:30PM, In-Person
 style: We both are relatively hands-on in the sense that we make ourselves available for problem-solving and discussions. That said, students have to be self-motivated, and motivated to do the readings and the work. 
 seats: 8
 tag: Graphs and Deep Learning
