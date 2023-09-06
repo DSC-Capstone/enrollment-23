@@ -1,7 +1,7 @@
 ---
 name: Rasmus S Nielsen
 email: With questions for industry mentors, email Suraj
-photo: https://media.licdn.com/dms/image/C5603AQHwpouMdyzRag/profile-displayphoto-shrink_400_400/0/1516322141243?e=1689811200&v=beta&t=pODLuKfJrcdG-SsyLEuPB1-i3B-in49Ln2yQvsy50iE
+photo: assets/images/rasmus-nielsen.jpeg
 website: https://www.linkedin.com/in/rasmus-sloth-nielsen-1315557/
 domain: A10
 title: Ethical Considerations in Using Artificial Intelligence

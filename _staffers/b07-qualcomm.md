@@ -1,7 +1,7 @@
 ---
 name: Lindsey Kostas
 email: With questions for industry mentors, email Suraj
-photo: https://media.licdn.com/dms/image/C5603AQEcz9nkbN6eGg/profile-displayphoto-shrink_400_400/0/1517251687268?e=1689811200&v=beta&t=qYeWMCdyIPdZLQypZvtdwgbaWdMrBT6bAw6VOkCQhAQ
+photo: assets/images/lindsey-kostas.jpeg
 website: https://www.linkedin.com/in/lindsey-kostas-a95115105/
 domain: B07
 title: Graph ML for Chip Profiling

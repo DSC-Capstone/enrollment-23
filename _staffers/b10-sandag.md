@@ -2,11 +2,11 @@
 dual: True
 name1: Cindy Burke
 email1: With questions for industry mentors, ask Suraj
-photo1: https://media.licdn.com/dms/image/C5603AQGbqwb8f-0gaA/profile-displayphoto-shrink_400_400/0/1610724050206?e=1689811200&v=beta&t=ut_JjT_plNXu8NNnBqdaKxgHyB5a3XapBWkk2Hcj_zI
+photo1: assets/images/cindy-burke.jpeg
 website1: https://www.linkedin.com/in/cynthiaburkephd/ 
 name2: Ray Major
 email2: With questions for industry mentors, ask Suraj
-photo2: https://media.licdn.com/dms/image/C4D03AQHE7j_f6VwRug/profile-displayphoto-shrink_400_400/0/1516302548222?e=1689811200&v=beta&t=xxKGXFTMlH7Lh1LT9hG9t945vkIL5BjH1Z894vOvB5s
+photo2: assets/images/ray-major.jpeg
 website2: https://www.linkedin.com/in/raymajor/ 
 domain: B10
 title: Leveraging SANDAG Unique Data to Enhance Public Planning and Quality of Life for the San Diego Region 

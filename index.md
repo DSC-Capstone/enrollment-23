@@ -6,11 +6,9 @@ nav_order: 1
 ---
 
 {: .important }
-> **Announcements (5/25, 1:30PM):**
-> - Enrollment begins tomorrow. To match a domain on this page to a domain on WebReg, use the domain's discussion section number (e.g. <span class="badge-domain">A05</span>) listed next to the number of seats.
->
+> **Announcements (September 6th):**
+> - **Section A12, with Babak Salimi, has been cancelled.** Babak will instead mentor Section A11: _Learning and Using Causality for a Further Step of Machine Intelligence_ with Biwei Huang.
 > - **Section A13, with Berk Ustun, has been cancelled.** Berk will instead mentor Section B18: _NLP Credit Score Development_ with Brian Duke (industry mentor, Prism Data).
->
 > - If you took either DSC 140A, DSC 140B, or DSC 148 to satisfy the machine learning prerequisite, you will need to submit an [Enrollment Authorization System](https://academicaffairs.ucsd.edu/Modules/Students/PreAuth/) request in order to enroll in DSC 180A in fall quarter.
 
 # {{ page.title }}

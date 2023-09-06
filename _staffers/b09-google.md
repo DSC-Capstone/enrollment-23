@@ -1,8 +1,8 @@
 ---
 name: Ali Arsanjani
 email: With questions for industry mentors, email Suraj
-photo: https://media.licdn.com/dms/image/C5603AQEDvFyJ53--Pw/profile-displayphoto-shrink_400_400/0/1600975365326?e=1689811200&v=beta&t=sLMDinP0UWQDdJFl2-HY50jz3gWjOE74jttguLCBR_o
-website: deep-context.com
+photo: assets/images/ali-arsanjani.jpeg
+website: https://deep-context.com
 domain: B09
 title: Generative AI for Good
 bio: "Dr. Ali Arsanjani is the Director of Cloud Partner Engineering at Google Cloud, where he leads strategic co-innovation partnerships in Generative AI, Data/Analytics, and Predictive AI/ML. He is also the Head of AI Center of Excellence and works closely with product management to shape Google's AI and analytics offerings from a cloud perspective. Prior to joining Google, Ali held significant roles at AWS, IBM, and other companies, where he played key roles in the development and implementation of AI and ML solutions. He is recognized for his expertise in areas such as NLP, deep learning ensemble models, customer segmentation, and conversational virtual assistant implementations. Additionally, Ali has served as an adjunct professor and has contributed to the development of industry standards in service-oriented architecture and cloud computing."

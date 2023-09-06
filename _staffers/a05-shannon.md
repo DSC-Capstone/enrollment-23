@@ -1,7 +1,7 @@
 ---
 name: Kyle Shannon
 email: kshannon@ucsd.edu
-photo: https://media.licdn.com/dms/image/C5603AQFdxcObaGBjng/profile-displayphoto-shrink_800_800/0/1553323977969?e=1689811200&v=beta&t=a95N4i9WKbkMYb-yqF_nK76oTD2bisgIRX1rhmKxhG4
+photo: assets/images/kyle-shannon.jpeg
 website: https://www.kmshannon.com/
 domain: A05
 title: "Sepsis: Using Clinical Healthcare Data Science to Identify and Combat an Infectious Killer"

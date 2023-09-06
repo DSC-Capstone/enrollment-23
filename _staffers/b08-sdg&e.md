@@ -1,7 +1,7 @@
 ---
 name: Phi Nguyen
 email: With questions for industry mentors, email Suraj
-photo: https://media.licdn.com/dms/image/C4E03AQHTCyF68VCFQw/profile-displayphoto-shrink_400_400/0/1517078317385?e=1689811200&v=beta&t=MTrRdGtTRX01fhtZDVpwKUeFKrfSHNXkna9LK02qd3g
+photo: assets/images/phi-nguyen.jpeg
 website: https://www.linkedin.com/in/pdashk
 domain: B08
 title: Utility and Wildfire Risks Detected From Street View Imagery
