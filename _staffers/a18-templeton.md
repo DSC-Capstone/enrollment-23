@@ -10,7 +10,7 @@ description: "The project domain for college students pursuing degrees in Data S
 summer:
 oldstudent: https://wenyuanchen1326.github.io/BlockBazaar/
 prerequisites: None
-time: TBD, Zoom
+time: Wednesday 2-3PM, Zoom
 style: 
 seats: 8
 tag: Distributed Systems and Other Applications
