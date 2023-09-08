@@ -2,7 +2,7 @@
 dual: True
 name1: Brian Duke
 email1: With questions for industry mentors, email Suraj
-photo1: https://media.licdn.com/dms/image/C4E03AQHghE56JD5CFA/profile-displayphoto-shrink_400_400/0/1602268159665?e=1690416000&v=beta&t=g6CiiTt68AJplt3-AoA71EG-rdfzMxnwm96Z2wKISWQ
+photo1: assets/images/brian-duke.jpeg
 website1: https://www.linkedin.com/in/brian-duke-07666a8/
 name2: Berk Ustun
 email2: berk@ucsd.edu
