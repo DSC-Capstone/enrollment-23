@@ -1,11 +1,11 @@
 ---
 dual: True
 name1: Cindy Burke
-email1: With questions for industry mentors, ask Suraj
+email1: With questions for industry mentors, email Suraj
 photo1: assets/images/cindy-burke.jpeg
 website1: https://www.linkedin.com/in/cynthiaburkephd/ 
 name2: Ray Major
-email2: With questions for industry mentors, ask Suraj
+email2: With questions for industry mentors, email Suraj
 photo2: assets/images/ray-major.jpeg
 website2: https://www.linkedin.com/in/raymajor/ 
 domain: B10
