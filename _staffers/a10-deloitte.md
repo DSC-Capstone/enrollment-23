@@ -17,7 +17,7 @@ Links to Work by Previous Capstone Students
 <li><a href='https://ptse8204.github.io/flightpricebias/'>https://ptse8204.github.io/flightpricebias/</a></li></ul>"
 oldstudent: grizlucks.github.io/DSC180B-CapstoneFinalProject/
 prerequisites: None
-time: Friday, 11AM-12PM, Zoom
+time: Friday 11AM-12PM, Zoom
 style: "The capstone program is based in active participation from all students. The mentors will provide overall guidance, and a high level of student independence is required. Highlights:
 <ul>
 <li>Understand the implications of the impossibility theorem for organizations employing AI</li>
