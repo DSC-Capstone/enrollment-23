@@ -15,7 +15,7 @@ description: "Stochastic optimization has been the main powerhouse for modern ma
 summer: "Please finish reading the following 3 papers during the summer. Pick one to go into the nitty gritty details. Close to the beginning of the quarter, prepare a short presentation about the paper. You can either use slides or prepare to present it on the whiteboard with the fellow students who pick the same paper. Papers: <ul><li><a href='https://www.sciencedirect.com/science/article/abs/pii/S106352032100110X'>https://www.sciencedirect.com/science/article/abs/pii/S106352032100110X</a></li><li><a href='https://arxiv.org/abs/2105.14368'>https://arxiv.org/abs/2105.14368</a></li><li><a href='https://arxiv.org/abs/2202.09885'>https://arxiv.org/abs/2202.09885</a></li></ul>"
 oldstudent: https://mbouassa.github.io/mysite/
 prerequisites: Probability, Optimization, Linear algebra, Multivariate calculus
-time: TBD, In-Person
+time: Wednesday 9-10AM, In-Person
 style: 
 seats: 12
 tag: Graphs and Deep Learning
