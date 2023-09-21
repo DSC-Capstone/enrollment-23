@@ -11,7 +11,7 @@ description: "This group will investigate applications of deep learning to the c
 summer: "Review this previous paper. Students will replicate some of its results in the first quarter."
 oldstudent: https://yashpotdar.github.io/deep-learning-pulmonary-edema/
 prerequisites: None
-time: Monday 1-2PM, In-Person
+time: Monday 1-2PM, In-Person 📍 <a href="https://maps.app.goo.gl/fa5c6mUUnqBNfbxXA" style="color:white">ACTRI 4W-526</a>
 style: Students will work with me for the capstone section, but may also interface with graduate students and/or post-doctoral fellows in my lab.
 seats: 6
 tag: Bio

@@ -10,7 +10,7 @@ description: "Diffusion process is a mathematical model used to describe how par
 summer: "Understand this: <a href='https://dataflowr.github.io/website/modules/18a-diffusion/'>https://dataflowr.github.io/website/modules/18a-diffusion/</a>"
 oldstudent: https://hblyx.github.io/CommunityDetection/
 prerequisites: Probability, Markov Chains, Inference, Signal Processing, Linear Algebra
-time: Tuesday 11AM-12PM, In-Person
+time: Tuesday 11AM-12PM, In-Person 📍 HDSI 431
 style: Students should be able to code independently
 seats: 3
 tag: Graphs and Deep Learning

@@ -25,7 +25,7 @@ The xDF paper (<a href='https://www.sciencedirect.com/science/article/pii/S10538
 </ul>"
 oldstudent: https://jeremyn644.github.io/
 prerequisites: Probability and Statistics (e.g. CSE 103, ECE 109, MATH 180A, MATH 183, MATH 189)
-time: Wednesday 3:30-4:30PM, In-Person
+time: Wednesday 3:30-4:30PM, In-Person 📍 HDSI 138
 style: Mentoring will involve data science PhD student Gabriel Riegner. Students are expected to take ownership over the project. This implies taking initiative in learning about the topic (from the assigned material and other sources), implementing the methods in code, being resourceful when needing help, and asking questions. Students are expected to put in their best effort, plan their time over the quarter, make substantial progress each week, report on it each week, and come up with an action plan for the next steps (as opposed to waiting for the mentor to give instructions). In other words, be independent, but ask for help when needed.
 seats: 6
 tag: Bio

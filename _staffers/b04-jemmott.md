@@ -10,7 +10,7 @@ description: "This section offers a hands-on exploration of semantic search, foc
 summer: "Please get a copy of \"AI-Powered Search\" by Trey Grainger, Doug Turnbull, and Max Irwin. The publisher, Manning, often has sales on the eBook.  I strongly recommend skimming the whole thing, but if you at lease look through Section 1 it will help us all have a shared foundation."
 oldstudent: https://dsc-capstone.github.io/projects-2020-2021/#domain_04
 prerequisites: None
-time: Wednesday 9-10AM, In-Person
+time: Wednesday 9-10AM, In-Person 📍 HDSI 336
 style: This section will be open-ended and ill-posed, meaning that you will need to first define and then solve the problems.  I will do everything I can to help you, but you will play a leading role in our collaboration.
 seats: 8 
 tag: Graphs and Deep Learning

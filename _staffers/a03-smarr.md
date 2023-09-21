@@ -17,7 +17,7 @@ summer: "Please read and consider looking up methods from the following papers o
 Note that the very large COVID-19 related data set in my lab is a controlled government resource (which I hate but which is the law) so we will not work in that. We will use public datasets, published data sets along side papers, and donated patient data from collaborating clinics."
 oldstudent: https://med-dash.github.io/
 prerequisites: Some exposure to health systems and biology will be helpful, but you will succeed (and maybe learn more!) without this.
-time: Wednesday 2-3PM, In-Person
+time: Wednesday 2-3PM, In-Person 📍 <a href="https://maps.app.goo.gl/RGNMnBuqdte9moRu7" style="color:white"> FAH TBD</a>
 style: I plan to integrate the DSC team with the Bionengineering capstone team of similar domain interests. Each team will do its own work, but also be expected to complement and collaborate with the others in the domain.
 seats: 8
 tag: Bio

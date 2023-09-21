@@ -10,7 +10,7 @@ description: "Traditionally, we have read out microbial communities using just o
 summer: "We primarily use Python. Please familiarize yourself with PyTorch, Qiita, and QIIME2. My Coursera course \"Gut Check\" and my TED talk are rather dated but give a sense of what we're trying to do overall."
 oldstudent: https://drive.google.com/file/d/1DOY9-qMOsoCTTyfNKpg0BaX3MhXKZ_EM/view
 prerequisites: None
-time: Wednesday 3-4PM, In-Person
+time: Wednesday 3-4PM, In-Person 📍 <a href="https://maps.app.goo.gl/euARPkQyMjyzP2Cn6" style="color:white">Biomedical Research Facility II 2103</a>
 style: "Will involve PhD students and/or postdocs depending on what direction group takes, although I plan to be there every session except when unavoidable (e.g. travel). I usually allow several weeks to explore the general area then either encourage the team to focus on a project of their choosing or provide more directed guidance. The 2021 capstone project led to the campus wastewater dashboard we all use here: <a href='https://returntolearn.ucsd.edu/dashboard/index.html'>https://returntolearn.ucsd.edu/dashboard/index.html</a>"
 seats: 8
 tag: Bio

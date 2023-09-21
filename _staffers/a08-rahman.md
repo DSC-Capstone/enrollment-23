@@ -10,8 +10,9 @@ description: "The group will develop machine learning models for Adolescent Brai
 summer: "The students are encouraged to get some familiarity with time series modeling and machine learning fundamentals."
 oldstudent: https://zixinma27.github.io/DSC180-Aerosol-Flow-Modeling-and-Simulation-in-a-Classroom-with-Mobile-Sensors/
 prerequisites: None
-time: Tuesday 10-11AM, In-Person
+time: Tuesday 10-11AM, In-Person 📍 TBD
 style: I will be the primary mentor. My PhD student will also co-mentor the team. While I will the main to-go person for the capstone, the PhD student can provide additional help with coding and data analysis.
 seats: 6
 tag: Bio
+roomtemp: HDSI 138
 ---

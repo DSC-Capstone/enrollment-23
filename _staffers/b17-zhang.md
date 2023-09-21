@@ -18,7 +18,7 @@ If successful, the proposed platform will provide ML developers one-stop-for-all
 summer: "Work through <a href='https://icml.cc/virtual/2022/tutorial/18440'>https://icml.cc/virtual/2022/tutorial/18440</a> and <a href='https://github.com/RUCAIBox/LLMSurvey'>https://github.com/RUCAIBox/LLMSurvey</a>"
 oldstudent: nan
 prerequisites: Machine learning
-time: Thursday 1-2PM, In-Person
+time: Thursday 1-2PM, In-Person 📍 HDSI 336
 style: Will involve my postdoc or PhD who are interested in talking. Hands-on in the early bootstrap stage and will be hands-off afterwards.
 seats: 6
 tag: Language Models

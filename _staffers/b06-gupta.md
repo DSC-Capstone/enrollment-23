@@ -10,7 +10,7 @@ description: "Machine Learning Acceleration using Hardware such as FPGA refers t
 summer: None
 oldstudent: nan
 prerequisites: None
-time: Wednesday 10-11AM, In-Person
+time: Wednesday 10-11AM, In-Person 📍 HDSI 336
 style: Mostly as a listener to the students.
 seats: 4
 tag: Graphs and Deep Learning

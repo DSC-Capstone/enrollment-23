@@ -20,7 +20,7 @@ This domain will require hands-on skills with proficiency level of modern data s
 summer: "Please explore SANDAG Open Data Portal for all available data for potential use in the projects.  <a href='https://opendata.sandag.org/'>https://opendata.sandag.org/</a>"
 oldstudent: nan
 prerequisites: None
-time: Thursday 2-3PM, Hybrid
+time: Thursday 2-3PM, Zoom
 style: We would love to invite students come to SANDAG campus on a regular basis (but may not need to be every week) to be able to interact with SANDAG staff to help formulate potential proposal for projects. For example, mentoring may involve Data Science Managers and Ph.D. Data Scientists. 
 seats: 10
 tag: Graphs and Deep Learning

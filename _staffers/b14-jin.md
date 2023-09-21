@@ -12,7 +12,7 @@ More specifically, we will analyze the effect of input methods on the vocabulary
 summer: "During the summer, students are expected to identify potential datasets and input methods and learn some knowledge about language evolution (e.g., <a href='https://www.pnas.org/doi/10.1073/pnas.96.14.8028'>https://www.pnas.org/doi/10.1073/pnas.96.14.8028</a>)."
 oldstudent: https://nahmann.github.io/DSC180-B16/
 prerequisites: Experience with writing crawlers would be a plus for students who want to participate in data collection for this project.
-time: Friday 4-5PM, In-Person
+time: Friday 4-5PM, In-Person 📍 HDSI 138
 style: I will have direct interactions with students, who are encouraged to contact me with any questions they encounter.
 seats: 6
 tag: Language Models

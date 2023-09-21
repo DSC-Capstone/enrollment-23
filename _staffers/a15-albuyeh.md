@@ -10,7 +10,7 @@ description: "In this group, students will learn advanced techniques for buildin
 summer: "It will be helpful spending some time learning the linux command line, git, python packaging, and becoming familiar with an IDE like PyCharm or something similar. "
 oldstudent: nan
 prerequisites: None
-time: Friday 9-10AM, In-Person
+time: Friday 9-10AM, In-Person 📍 HDSI 138
 style: My capstone group will be treated as its own entity. 
 seats: 6
 tag: Distributed Systems and Other Applications

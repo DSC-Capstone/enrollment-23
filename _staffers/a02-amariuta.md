@@ -10,7 +10,7 @@ description: "A polygenic risk score (PRS) is a weighted sum of an individual’
 summer: Read <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3912837/'>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3912837</a>, <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6128408/'>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6128408/</a>, <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6563838/'>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6563838/</a>, and <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7737656/'>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7737656/</a>
 oldstudent: https://notsamzhou.github.io/twas/
 prerequisites: None
-time: Wednesday 10-11AM, In-Person
+time: Wednesday 10-11AM, In-Person 📍 <a href="https://maps.app.goo.gl/RGNMnBuqdte9moRu7" style="color:white"> FAH 2101</a>
 style: For the first quarter, we will meet as one group as we are gaining familiarity with the core concepts of precision medicine and personalized genetic risk scores. For the second quarter, I will be separately with each project group. Students will work with publicly available datasets and will be doing all the analysis on their own. Typical analysis will begin with acquiring VCF or plink files for genetic data. Students will be expected to work on a remote server and use plink (a convenient tool with great documentation) to manipulate files, perform pruning and thresholding, and make disease predictions across individuals. Students will be expected to use R or python to visualize their results and assess their statistical significance. 
 seats: 6
 tag: Bio

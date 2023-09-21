@@ -10,7 +10,7 @@ description: "We'll explore, design and, develop useful machine learning/natural
 summer: "Get familiar with deep learning tools like PyTorch and NLP tools like Huggingface"
 oldstudent: https://nathansng.github.io/fintech_library/
 prerequisites: Natural Language Processing
-time: Tuesday 2-3PM, In-Person
+time: Tuesday 2-3PM, In-Person 📍 HDSI 138
 style: The mentor will provide a couple of candidate projects; each student group is expected to either pick one of the projects or define their own project by themselves. During the project, the mentor will provide relevant materials (papers, tools, etc.) and necessary guidance when there are questions; students are expected to carry out the projects largely independently. There are also possibilities that students can choose to join a larger research group led by the mentor's PhD students.
 seats: 6
 tag: Language Models

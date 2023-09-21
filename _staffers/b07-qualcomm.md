@@ -17,7 +17,7 @@ The following resources are helpful for any students looking to get a headstart 
 oldstudent: nan
 prerequisites: "Deep learning; deep learning frameworks such as pytorch or tensorflow
 Helpful, but not required: graph algorithms; graph theory; ASIC/FPGA/VLSI design"
-time: Monday 1-2PM, In-Person
+time: Monday 1-2PM, In-Person 📍 HDSI 355
 style: We plan to have ~5 industry mentors who will bring a mix of ML, SW, and domain of application experience as well as experience in different types of professional roles and years on the job. Seminar sessions will be a mix of technical tutorials and paper readings w/ discussion, with a rotation of the mentor leading each week's session. We seek to have highly interactive sessions where students come prepared to discuss that weeks topic. Mentors will look to students to define project topics and research plans, but actively advise these decisions as well as the technical project implemention.
 seats: 10
 tag: Graphs and Deep Learning

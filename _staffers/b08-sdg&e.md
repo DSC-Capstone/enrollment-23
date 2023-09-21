@@ -10,7 +10,7 @@ description: "San Diego Gas & Electric leverages many different public and priva
 summer: "Review Google street view API documentation: <a href='https://developers.google.com/maps/documentation/streetview'>https://developers.google.com/maps/documentation/streetview</a>; any image detection experience"
 oldstudent: nan
 prerequisites: None
-time: Wednesday TBD, Hybrid
+time: Wednesday TBD, MS Teams
 style: Student group will be a stand-alone unit at SDG&E led by Mentor. Mentor will first work with students to understand utility space, and then schedule time with other SDG&E staff who will provide tours, field visits, and other utility-specific training. Students will also be introduced to other data scientists and engineers at SDG&E who are available for support on an as-needed basis throughout the duration of the project. However, once an introduction is made, it will be up to the students to reach out to staff when support is needed. Students will be encouraged to run their ideas by staff members beyond the mentor.
 seats: 12
 tag: Graphs and Deep Learning

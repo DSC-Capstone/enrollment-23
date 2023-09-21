@@ -10,7 +10,7 @@ description: "The project will build upon earlier work on GymCoin and Goodwill c
 summer: nan
 oldstudent: https://anyachandorkar.github.io/servicechain.io/
 prerequisites: None
-time: Saturday 10-11AM, In-Person
+time: Saturday 10-11AM, In-Person 📍 HDSI 138
 style: Mostly as a listener to the students.
 seats: 4
 tag: Distributed Systems and Other Applications
