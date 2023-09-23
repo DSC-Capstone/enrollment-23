@@ -1,6 +1,6 @@
 ---
 name: Colin Jemmott
-email: cjemmott@gmail.com
+email: cjemmott@ucsd.edu
 photo: https://avatars.githubusercontent.com/u/43320559?v=4
 website: https://www.cjemmott.com/
 domain: B04
