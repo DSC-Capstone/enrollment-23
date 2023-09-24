@@ -20,7 +20,7 @@ However, it is important to note that generative AI techniques are not without c
 summer: Papers on Transformers, hands-on small bite-size projects that can help pave the way for the generative AI project domain
 oldstudent: nan
 prerequisites: Experience with deep learning frameworks
-time: Thursday 4-5PM, Hybrid
+time: Thursday 4-5PM, In-Person 📍 HDSI 138
 style: Will combine the students in the capstone with a larger research group; responsibility, diligence, accountability, and a desire to explore are essential
 seats: 8
 tag: Graphs and Deep Learning
