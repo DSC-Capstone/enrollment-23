@@ -14,4 +14,5 @@ time: Wednesday 10-11AM, In-Person 📍 <a href="https://maps.app.goo.gl/RGNMnBu
 style: For the first quarter, we will meet as one group as we are gaining familiarity with the core concepts of precision medicine and personalized genetic risk scores. For the second quarter, I will be separately with each project group. Students will work with publicly available datasets and will be doing all the analysis on their own. Typical analysis will begin with acquiring VCF or plink files for genetic data. Students will be expected to work on a remote server and use plink (a convenient tool with great documentation) to manipulate files, perform pruning and thresholding, and make disease predictions across individuals. Students will be expected to use R or python to visualize their results and assess their statistical significance. 
 seats: 6
 tag: Bio
+ta: Samanvitha
 ---

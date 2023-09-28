@@ -22,13 +22,17 @@
   <div>
     <h3 class="staffer-name">
     {{ page.title }}<br><small><a href="{{ page.website }}">{{ page.name }}</a> • <span style="color:grey">{{ page.email }}</span></small>
+    {% if page.ta %}
+    <br><small><span style="color:grey"><b>TA</b>: {{ page.ta }}</span></small>
+    {% endif %}
     <br><span class="badge-domain">{{ page.domain }}</span> <span class="badge-seats">{{ page.seats }} seats</span> <span class="badge-time">{{ page.time }}</span>  
   {% endif %}
     {% if page.industry %}
     <span class="badge-industry">Industry Partner: {{ page.industry }}</span>
     {% else %}
     {% endif %}
-    <br></h3>
+    <br>
+  </h3>
     {{ page.description }}
     <br>
     <details>
