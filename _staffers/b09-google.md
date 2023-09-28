@@ -25,4 +25,5 @@ style: Will combine the students in the capstone with a larger research group; r
 seats: 8
 tag: Graphs and Deep Learning
 industry: Google
+ta: Keng-Chi
 ---

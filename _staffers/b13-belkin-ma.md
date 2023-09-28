@@ -19,4 +19,5 @@ time: Wednesday 9-10AM, In-Person 📍 HDSI 455
 style: 
 seats: 12
 tag: Graphs and Deep Learning
+ta: Yanyi
 ---

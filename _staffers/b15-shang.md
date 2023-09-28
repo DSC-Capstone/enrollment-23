@@ -14,4 +14,5 @@ time: Wednesday 11AM-12PM, Zoom
 style: I will lead the discussion in Fall and give mini-lectures. In Winter, it's more like stand-up meetings with Q&A. 
 seats: 6
 tag: Language Models
+ta: Samanvitha
 ---

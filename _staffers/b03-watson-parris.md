@@ -18,4 +18,5 @@ time: Wednesday 2-3PM, In-Person 📍 HDSI 437
 style: This work is central to my research interests and will be integrated into my broader group program to the extent the students want to engage with it. The students will be welcome to join my group meetings (typically held at Scripps Institution of Oceanography).
 seats: 6
 tag: Graphs and Deep Learning
+ta: Yanyi
 ---

@@ -14,4 +14,5 @@ time: Tuesday 10-11AM, In-Person 📍 <a href="https://maps.app.goo.gl/RGNMnBuqd
 style: I will be the primary mentor. My PhD student will also co-mentor the team. While I will the main to-go person for the capstone, the PhD student can provide additional help with coding and data analysis.
 seats: 6
 tag: Bio
+ta: Gabriel
 ---

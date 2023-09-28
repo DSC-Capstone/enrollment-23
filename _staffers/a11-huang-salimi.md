@@ -19,4 +19,5 @@ time: Friday 10:30-11:30AM, Zoom
 style: I will suggest project ideas and guide students through the steps required to complete them. I will adapt my level of involvement based on the individual needs of each student.
 seats: 12
 tag: Causal Inference and Fairness
+ta: Yuyao
 ---

@@ -14,4 +14,5 @@ time: Tuesday 11AM-12PM, In-Person 📍 HDSI 431
 style: Students should be able to code independently
 seats: 3
 tag: Graphs and Deep Learning
+ta: Trevor
 ---

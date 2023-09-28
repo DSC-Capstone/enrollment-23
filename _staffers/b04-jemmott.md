@@ -14,4 +14,5 @@ time: Wednesday 9-10AM, In-Person 📍 HDSI 336
 style: This section will be open-ended and ill-posed, meaning that you will need to first define and then solve the problems.  I will do everything I can to help you, but you will play a leading role in our collaboration.
 seats: 8 
 tag: Graphs and Deep Learning
+ta: Yuyao
 ---

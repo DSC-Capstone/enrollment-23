@@ -14,4 +14,5 @@ time: Friday 9-10AM, In-Person 📍 HDSI 138
 style: My capstone group will be treated as its own entity. 
 seats: 6
 tag: Distributed Systems and Other Applications
+ta: Keng-Chi
 ---

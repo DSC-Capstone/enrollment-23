@@ -14,4 +14,5 @@ time: Wednesday 10-11AM, In-Person 📍 HDSI 336
 style: Mostly as a listener to the students.
 seats: 4
 tag: Graphs and Deep Learning
+ta: Trevor
 ---

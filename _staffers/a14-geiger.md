@@ -25,4 +25,5 @@ time: Monday 12-1PM, In-Person 📍 HDSI 138
 style: I will be the only point of contact. Students will be expected to propose their own project auditing an existing algorithmic system of their own choosing, collect data through methods like headless browsers, and analyze data. I will help with ideas and details. 
 seats: 4
 tag: Causal Inference and Fairness
+ta: Praveen
 ---

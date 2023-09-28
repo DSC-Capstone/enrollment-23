@@ -16,4 +16,5 @@ time: Friday 4-5PM, In-Person 📍 HDSI 138
 style: I will have direct interactions with students, who are encouraged to contact me with any questions they encounter.
 seats: 6
 tag: Language Models
+ta: Keng-Chi
 ---

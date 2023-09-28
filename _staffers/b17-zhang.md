@@ -22,4 +22,5 @@ time: Thursday 1-2PM, In-Person 📍 HDSI 336
 style: Will involve my postdoc or PhD who are interested in talking. Hands-on in the early bootstrap stage and will be hands-off afterwards.
 seats: 6
 tag: Language Models
+ta: Trevor
 ---

@@ -26,4 +26,5 @@ time: Thursday 12:30-1:30PM, In-Person 📍 HDSI 138
 style: We both are relatively hands-on in the sense that we make ourselves available for problem-solving and discussions. That said, students have to be self-motivated, and motivated to do the readings and the work. 
 seats: 8
 tag: Graphs and Deep Learning
+ta: Keng-Chi
 ---

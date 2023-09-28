@@ -21,4 +21,5 @@ time: Wednesday 2-3PM, In-Person 📍 <a href="https://maps.app.goo.gl/RGNMnBuqd
 style: I plan to integrate the DSC team with the Bionengineering capstone team of similar domain interests. Each team will do its own work, but also be expected to complement and collaborate with the others in the domain.
 seats: 8
 tag: Bio
+ta: Yanyi
 ---

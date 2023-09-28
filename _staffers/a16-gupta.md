@@ -14,4 +14,5 @@ time: Saturday 10-11AM, In-Person 📍 HDSI 138
 style: Mostly as a listener to the students.
 seats: 4
 tag: Distributed Systems and Other Applications
+ta: Praveen
 ---

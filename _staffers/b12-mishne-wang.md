@@ -20,4 +20,5 @@ time: Wednesday 9-10AM, In-Person 📍 HDSI 355
 style: We expect students to be self motivated to do the reading and coding tasks, and to have some degree of independence in their capstone projects. Students are expected to treat the project seriously and devote time to making weekly progress toward their goals. We are always happy to discuss and help problem-solve.
 seats: 12
 tag: Graphs and Deep Learning
+ta: Trevor
 ---
