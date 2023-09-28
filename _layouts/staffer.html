@@ -14,6 +14,9 @@
         {% endif %}
       
       </span></small>
+    {% if page.ta %}
+    <br><small><span style="color:grey"><b>TA</b>: {{ page.ta }}</span></small>
+    {% endif %}
     <br><span class="badge-domain">{{ page.domain }}</span> <span class="badge-seats">{{ page.seats }} seats</span> <span class="badge-time">{{ page.time }}</span>
   {% else %}
   {% if page.photo %}
