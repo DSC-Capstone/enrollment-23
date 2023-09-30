@@ -17,7 +17,7 @@ Locally in UCSD Scripps Oceanography, the Hildebrand lab (<a href='https://www.c
 summer: "Obtain the code for the top contenders in Kaggle, as well as the latest version of birdnet. Reproduce some of the top results."
 oldstudent: https://guanlin-99.github.io/
 prerequisites: Experience with DNNs and XGBoost. Experience with signal processing and filtering.
-time: Tuesday 3-4PM, In-Person 📍 HDSI 138
+time: Tuesday 3:30-4:30PM, In-Person 📍 HDSI 138
 style: In the meetings I like to see Jupyter Notebooks that show the current state of progress as well as problems. Each meeting ends with tasks for the following week.
 seats: 4
 tag: Graphs and Deep Learning
