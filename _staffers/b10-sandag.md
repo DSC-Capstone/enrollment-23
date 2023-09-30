@@ -25,4 +25,5 @@ style: We would love to invite students come to SANDAG campus on a regular basis
 seats: 10
 tag: Graphs and Deep Learning
 industry: SANDAG
+ta: Praveen
 ---

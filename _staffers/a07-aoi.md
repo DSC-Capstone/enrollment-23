@@ -21,4 +21,5 @@ time: Thursday 11AM-12PM, In-Person 📍 HDSI 138
 style: I'll provide a great deal of context, coaching, and direction for the project but my capstone students will need to spend time figuring things out for them selves. we'll start out slow with exercises and "home works" that will be challenging but will prepare students to think critically about their work and take on challenges as they come.
 seats: 4
 tag: Bio
+ta: Yuyao
 ---

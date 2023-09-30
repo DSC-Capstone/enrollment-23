@@ -18,4 +18,5 @@ time: Friday 1-2PM, Zoom
 style: 
 seats: 4
 tag: Distributed Systems and Other Applications
+ta: Gabriel
 ---

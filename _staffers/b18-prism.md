@@ -20,4 +20,5 @@ style: We'll meet every week and use the time to check in on your projects. We w
 seats: 12
 tag: Language Models
 industry: Prism Data
+ta: Trevor
 ---

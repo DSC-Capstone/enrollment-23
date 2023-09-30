@@ -32,4 +32,5 @@ style: "The capstone program is based in active participation from all students.
 seats: 10
 tag: Causal Inference and Fairness
 industry: Deloitte
+ta: Praveen
 ---

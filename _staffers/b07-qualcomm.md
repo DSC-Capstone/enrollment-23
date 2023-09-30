@@ -22,4 +22,5 @@ style: We plan to have ~5 industry mentors who will bring a mix of ML, SW, and d
 seats: 10
 tag: Graphs and Deep Learning
 industry: Qualcomm
+ta: Gabriel
 ---

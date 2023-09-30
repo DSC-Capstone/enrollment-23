@@ -28,4 +28,5 @@ time: Monday 4-5PM, Zoom
 style: This project will be purely research-oriented and heavier than the usual course project. Students are expected to lead their capstone project under Prof. Weng's guidance. Students familiar with deep learning algorithms in computer vision or natural language processing, and deep learning libraries (e.g. pytorch) and neural networks are more likely to succeed in this project.
 seats: 6
 tag: Graphs and Deep Learning
+ta: Keng-Chi
 ---

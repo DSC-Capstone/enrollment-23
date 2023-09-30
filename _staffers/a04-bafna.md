@@ -14,4 +14,5 @@ time: Tuesday 3-4PM, Zoom
 style: We will have a small research group of capstone students and one Ph.D. student who is also just starting out.
 seats: 4
 tag: Bio
+ta: Gabriel
 ---

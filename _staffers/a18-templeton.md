@@ -15,4 +15,5 @@ style:
 seats: 8
 tag: Distributed Systems and Other Applications
 industry: Franklin Templeton
+ta: Praveen
 ---

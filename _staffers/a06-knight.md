@@ -14,4 +14,5 @@ time: Wednesday 3-4PM, In-Person 📍 <a href="https://maps.app.goo.gl/euARPkQyM
 style: "Will involve PhD students and/or postdocs depending on what direction group takes, although I plan to be there every session except when unavoidable (e.g. travel). I usually allow several weeks to explore the general area then either encourage the team to focus on a project of their choosing or provide more directed guidance. The 2021 capstone project led to the campus wastewater dashboard we all use here: <a href='https://returntolearn.ucsd.edu/dashboard/index.html'>https://returntolearn.ucsd.edu/dashboard/index.html</a>"
 seats: 8
 tag: Bio
+ta: Samanvitha
 ---

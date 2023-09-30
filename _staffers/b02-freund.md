@@ -21,4 +21,5 @@ time: Tuesday 3:30-4:30PM, In-Person 📍 HDSI 138
 style: In the meetings I like to see Jupyter Notebooks that show the current state of progress as well as problems. Each meeting ends with tasks for the following week.
 seats: 4
 tag: Graphs and Deep Learning
+ta: Yanyi
 ---

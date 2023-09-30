@@ -15,4 +15,5 @@ style: Student group will be a stand-alone unit at SDG&E led by Mentor. Mentor w
 seats: 12
 tag: Graphs and Deep Learning
 industry: SDG&E
+ta: Gabriel
 ---
