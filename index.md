@@ -6,8 +6,8 @@ nav_order: 1
 ---
 
 {: .important }
-> **Announcements (September 18th):**
-> Most in-person sections now have a location listed in the new HDSI building. Some in-person sections will meet elsewhere. If your section is meeting over Zoom, your mentor will share the Zoom link with you.
+> **Announcements (October 2nd):**
+> Sections begin this week! See the [course homepage](https://dsc-capstone.github.io) for all updates moving forward.
 
 # {{ page.title }}
 {: .mb-2 }
