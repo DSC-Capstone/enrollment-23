@@ -24,7 +24,12 @@
   {% endif %}
   <div>
     <h3 class="staffer-name">
-    {{ page.title }}<br><small><a href="{{ page.website }}">{{ page.name }}</a> • <span style="color:grey">{{ page.email }}</span></small>
+    {% if page.domain_site %}
+    <a href="{{ page.domain_site }}">{{ page.title }}</a>
+    {% else %}
+    {{ page.title }}
+    {% endif %}
+    <br><small><a href="{{ page.website }}">{{ page.name }}</a> • <span style="color:grey">{{ page.email }}</span></small>
     {% if page.ta %}
     <br><small><span style="color:grey"><b>TA</b>: {{ page.ta }}</span></small>
     {% endif %}
