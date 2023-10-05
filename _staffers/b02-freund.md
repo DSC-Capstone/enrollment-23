@@ -22,4 +22,5 @@ style: In the meetings I like to see Jupyter Notebooks that show the current sta
 seats: 4
 tag: Graphs and Deep Learning
 ta: Yanyi
+domain_site: https://docs.google.com/document/d/1Bha8cLWnVeDNe-Y7zsuEGdTXZJuMnJc_IRWzQVKiXvU/edit?usp=sharing
 ---
