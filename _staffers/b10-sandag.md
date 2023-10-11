@@ -1,5 +1,6 @@
 ---
 dual: True
+trio: True
 name1: Cindy Burke
 email1: With questions for industry mentors, email Suraj
 photo1: assets/images/cindy-burke.jpeg
@@ -8,6 +9,10 @@ name2: Ray Major
 email2: With questions for industry mentors, email Suraj
 photo2: assets/images/ray-major.jpeg
 website2: https://www.linkedin.com/in/raymajor/ 
+name3: Liang Tian
+email3: With questions for industry mentors, email Suraj
+photo3: assets/images/liang-tian.jpeg
+website3: https://www.linkedin.com/in/ltian
 domain: B10
 title: Leveraging SANDAG Unique Data to Enhance Public Planning and Quality of Life for the San Diego Region 
 bio: "<ul><li>Cindy Burke is Senior Director of Data Science at SANDAG. She received her Ph.D. at UCSD and has held various leadership roles across the agency for over 3 decades. It is an exciting place to be because we have the opportunity to use data to really have a positive impact on so many different ways in the San Diego region.</li><li>Ray Major is an expert in regional economics who advises organizations throughout the county on emerging and long-term economic trends. He is the Chief Economist and Deputy CEO of Business Operations at SANDAG where he leads strategic direction and agency operations. He regularly speaks on economic forecasts, the impacts of inflation, border economics, and more. Ray is an industry fellow for the UCSD Data Science Institute, serves on the boards of three regional economic development councils, and regularly contributes to the San Diego Union-Tribune’s Econometer. With 25 years of private sector experience, Ray brings a unique business perspective to regional planning. He has worked everywhere from Fortune 500 companies to high-tech startups. Ray takes pride in offering objective, data-driven assessments with accuracy and transparency. He serves San Diego residents by communicating how current economic trends affect our daily lives.</li></ul>"

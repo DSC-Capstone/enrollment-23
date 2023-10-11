@@ -1,5 +1,26 @@
 <div class="staffer">
   {% if page.dual %}
+  {% if page.trio %}
+  {% if page.photo1 %}
+  <img class="staffer-image" src="{{ page.photo1 | relative_url }}" alt="">
+  <img class="staffer-image" src="{{ page.photo2 | relative_url }}" alt="">
+  <img class="staffer-image" src="{{ page.photo3 | relative_url }}" alt="">
+  {% endif %}
+  <div>
+  <h3 class="staffer-name">
+    {{ page.title }}<br><small><a href="{{ page.website1 }}">{{ page.name1 }}</a>, <a href="{{ page.website2 }}">{{ page.name2 }}</a>, and  <a href="{{ page.website3 }}">{{ page.name3 }}</a> • <span style="color:grey">{{ page.email1 }}
+        
+        {% if page.email1 != page.email2 %}
+        and {{ page.email2 }}
+        {% else %}
+        {% endif %}
+      
+      </span></small>
+    {% if page.ta %}
+    <br><small><span style="color:grey"><b>TA</b>: {{ page.ta }}</span></small>
+    {% endif %}
+    <br><span class="badge-domain">{{ page.domain }}</span> <span class="badge-seats">{{ page.seats }} seats</span> <span class="badge-time">{{ page.time }}</span>
+  {% else %}
   {% if page.photo1 %}
   <img class="staffer-image" src="{{ page.photo1 | relative_url }}" alt="">
   <img class="staffer-image" src="{{ page.photo2 | relative_url }}" alt="">
@@ -18,6 +39,7 @@
     <br><small><span style="color:grey"><b>TA</b>: {{ page.ta }}</span></small>
     {% endif %}
     <br><span class="badge-domain">{{ page.domain }}</span> <span class="badge-seats">{{ page.seats }} seats</span> <span class="badge-time">{{ page.time }}</span>
+  {% endif %}
   {% else %}
   {% if page.photo %}
   <img class="staffer-image" src="{{ page.photo | relative_url }}" alt="">

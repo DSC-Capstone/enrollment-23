@@ -6,8 +6,7 @@ nav_order: 1
 ---
 
 {: .important }
-> **Announcements (October 2nd):**
-> Sections begin this week! See the [course homepage](https://dsc-capstone.github.io) for all updates moving forward. If your section is being held in-person, you can find its location here.
+> **This page will no longer be updated. See the [course homepage](https://dsc-capstone.org) and [Ed](https://edstem.org/us/courses/48541/discussion/) for future announcements.**
 
 # {{ page.title }}
 {: .mb-2 }
