@@ -6,8 +6,7 @@ nav_order: 1
 ---
 
 {: .important }
-> **All times listed below are for Fall 2023. To see the Winter 2024 section schedule, check [this spreadsheet](https://docs.google.com/spreadsheets/d/1dCjs06QobZ3jrMBFIMeHYuqXDpGZHLZAxYUnraVQtNI/edit#gid=0).**
-> **This page will no longer be updated. See the [course homepage](https://dsc-capstone.org) and [Ed](https://edstem.org/us/courses/48541/discussion/) for future announcements.**
+> **All times listed below are for Fall 2023. To see the Winter 2024 section schedule, check [this spreadsheet](https://docs.google.com/spreadsheets/d/1dCjs06QobZ3jrMBFIMeHYuqXDpGZHLZAxYUnraVQtNI/edit#gid=0).**<br><br>**This page will no longer be updated. See the [course homepage](https://dsc-capstone.org) and [Ed](https://edstem.org/us/courses/48541/discussion/) for future announcements.**
 
 # {{ page.title }}
 {: .mb-2 }
